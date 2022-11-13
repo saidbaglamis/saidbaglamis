@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saidbaglamis
+- 👋 Hi, I’m Said
 - 👀 I’m interested in Java and C 
 - 🌱 I’m currently learning Java
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Hi, I'm Said<br>🔭 I’m interested in Java and C <br>🌱 I’m currently learning Java
+⚡ Hi, I'm Said. I am a computer science student<br>🔭 I’m interested in Java and C <br>🌱 I’m currently learning Java
 
 
 # 💻 Tech Stack:

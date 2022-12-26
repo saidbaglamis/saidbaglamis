@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Hi, my name is Said. I am a computer science student<br>🔭 I’m interested in Java and C <br>🌱 I’m currently learning Java
+⚡ Hi, my name is Said. I am a computer science student. Also I am a student at 42Kocaeli.<br>🔭 I’m interested in Java and C <br>🌱 I’m currently learning Java
 
 
 # 💻 Tech Stack:
